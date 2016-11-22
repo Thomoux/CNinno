@@ -165,7 +165,7 @@ header nav li{
 }
 
 .trial_color{
-    background-color: #843534;
+    background-color: #CCDDEE;
 
 }
 
@@ -254,8 +254,8 @@ header nav li{
 
 .top_content{
 	position:relative;
-	padding-top: 50px;
-	padding-bottom:30px;
+	padding-top: 0px;
+	padding-bottom:0px;
 	}
 
 .white_pad{
@@ -566,7 +566,7 @@ a.contact_btn:hover{
 .portfolioContainer{
 	margin:0 auto;
 	padding-left:15px;
-	width:auto !important;
+	width:auto ;
 }
 
 .Portfolio-box{
@@ -613,135 +613,14 @@ img {
 .main-section.paddind{
 	padding-bottom:60px;
 }
-
-
-/* Happy Clients
----------------------------------*/
-
-
-
-#client_outer{
-	padding:0px 0px;
-	}
-
-.client_area{
-	 width:960px;
-	margin:0px auto;
-}
-
-.client_section{
-	padding:35px 0 0 0;
-	}
-
-.client_section.btm{
-	padding:20px 0 0 0;
-	}
-
-
-.client_profile{
-	float:left;
-	text-align:center;
-	}
-
-.client_profile.flt{
-	float:right;
-	}
-
-.client_profile_pic{
-	border-radius:50%;
-	border:2px solid #f5f5f5;
-	margin:0 0 15px 0;
-	width:220px;
-	height:220px;
-	}
-
-.client_profile_pic img{
-	border-radius:30%;
-	border:3px solid #f5f5f5;
-	}
-
-.client_profile h3{
-	font-size:18px;
-	color:#49b5e7;
-	margin:0 0 0 0;
-	}
-
-.client_profile span{
-
-	display:block;
-	font-size:16px;
-	color:#888888;
-	}
-
-.quote_section{
-	width:648px;
-	background:#f9f9f9;
-	position:relative;
-	padding:40px 30px;
-	float:left;
-	margin:35px 0 0 30px;
-	}
-
-.quote_section.flt{
-	float:left;
-	}
-
-.quote_section p{
-	font-family: 'Lato',sans-serif;
-	font-style: italic;
-	font-size:18px;
-	font-weight: 300;
-	color:#888888;
-	text-align:center;
-	position:relative;
-
-	}
-
-.quote_section p b{
-    display: inline-block;
-    font-size: 22px;
-    left: -9px;
-    position: relative;
-    top: -8px;
-	}
-
-.quote_section p small{
-	display: inline-block;
-	right: -9px;
-    position: relative;
-    top:4px;
-	}
-
-.quote_arrow{
-	position:absolute;
-	background:url(../img/quote_arrow.png) no-repeat left top;
-	width:23px;
-	height:25px;
-	left:-22px;
-	top:50%;
-	margin-top:-15.5px;
-	}
-
-.quote_arrow2{
-	background:url(../img/quote_arrow2.png) no-repeat right top;
-	position:absolute;
-	width:23px;
-	height:25px;
-	right:-22px;
-	top:50%;
-	margin-top:-15.5px;
-	}
-
-
-
 /* Sponsors
 ---------------------------------*/
 
 .bandeau {
-    background-color: #ed9c28;
+    background-color: #FFDDDD;
     padding-bottom:0.5%;
     padding-top:0.5%;
-    margin-bottom: -200px;
+    margin-bottom: 0px;
     }
 
 
