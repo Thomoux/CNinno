@@ -154,7 +154,7 @@ band{
 }
 
 .header_bandeau{
-    background:#222537;
+    background:#002977;
 }
 
 .logo{
@@ -203,6 +203,7 @@ header nav li{
 .top_cont_outer{
 	background:#f9f9f9;
 	position:relative;
+	margin: 0px;
 	}
 
 .top_cont_inner{
@@ -382,10 +383,11 @@ img {
 ---------------------------------*/
 
 .bandeau {
-    background-color: #FFFFFF;
-    padding-bottom:0.5%;
-    padding-top:0.5%;
+    background-color: #AAD2FF;
+    padding-bottom:1%;
+    padding-top:1%;
     margin-bottom: 0px;
+	margin-left : -30px;
     }
 
 .bandeau h2{
