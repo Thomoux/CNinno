@@ -64,25 +64,7 @@
 </head>
 
 <body>
-    <header role="banner">
-        <div class="header_bandeau">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 col-lg-push-4">
-                        <img src="img/logo_CN.png" alt="Centrale Num" />
-                    </div>
-                    <div class="container">
-                        <div class="col-lg-4 col-lg-push-4">
-                            <a href="zone_login.php" target="_blank">
-                                <L>Login</L>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-
+<?php include('header.php')?>
 
     <section class="main-section" id="client_outer"><!--main-section client-part-start-->
         <h2>L'équipe Centrale Num de l'ambiance</h2>

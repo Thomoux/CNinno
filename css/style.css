@@ -157,6 +157,11 @@ band{
     background:#002977;
 }
 
+.la_classe_de_l_enfer{
+    max-width: 100%;
+    height:auto;
+}
+
 .logo{
     position: relative;
     left: 50%;
@@ -389,9 +394,10 @@ a.learn_more2{
 	width:178px;
 	height:46px;
 	line-height:46px;
-	border-radius:3px;
+	border-radius:12px;
 	text-align:center;
     position:relative;
+	opacity:1;
     left:35%;
     right:35%;
     top:45%;
@@ -768,7 +774,7 @@ img {
 	}
 
 	.portfolio-item:hover .project-overlay {
-		opacity:1;
+		opacity: 1;
 		transition:all 0.4s ease 0s;
 		-moz-transition:all 0.4s ease 0s;
     	-webkit-transition:all 0.4s ease 0s;
@@ -797,7 +803,7 @@ img {
 		z-index:100;
 	}
 	.project-overlay:hover {
-		background:rgba(255, 255, 255, 0.8);
+		background:rgba(255, 255, 255, 0.8); /* set opacity here to change the opacity of the filter above the pictures in welcome page*/
 	}
 
 	.project-info {
