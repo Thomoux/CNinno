@@ -79,7 +79,7 @@
                             <div class="container"> <!-- Second box to add the login button -->
                                 <div class="col-lg-4 col-lg-push-4 col-sm-4 col-sm-push-4">
                                     <a href="zone_login.php" target="_blank"> <!-- php page where the user gets to login -->
-                                        <L>Peignoir</L>
+                                        <L>Login</L>
                                     </a>
                                 </div>
                             </div>

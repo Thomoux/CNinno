@@ -154,7 +154,8 @@ band{
 }
 
 .header_bandeau{
-    background:#002977;
+    background:url(/img/header_4.jpg);
+	background-size:cover;
 }
 
 .la_classe_de_l_enfer{

@@ -77,7 +77,7 @@
 
           <div class="col-lg-6 col-sm-5">
               <div style="opacity: 1;" class="portfolio-item one-four   videography isotope-item"> <!-- adds the context of the animation for the hover shit -->
-                <div class="portfolio-image"> <img src="http://www.centralenum.org/galerie-publique/albums/2016-2017/Quadrabang%202k16/Volante/20160930-023040-7386-Paul%20Toudret.jpg" alt=""> </div>
+                <div class="portfolio-image"> <img src="http://www.centralenum.org/galerie-publique/albums/2016-2017/Agrobang/Volante/20161202-033040-1682-Paul%20Toudret.jpg" alt=""> </div>
                 <div class="project-overlay">
                   <a href="http://www.centralenum.org/galerie-publique/2016-2017/Quadrabang%202k16/" class="learn_more2" target="_blank">Vers la Galerie</a> </div>
               </div>
